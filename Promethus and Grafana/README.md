@@ -1,6 +1,6 @@
 🚀 Project Spotlight: Monitoring Proxmox with Prometheus and Grafana
 
-As a DevOps enthusiast, I recently set up monitoring for my Proxmox server using Prometheus and Grafana. 🌟
+As an Tech enthusiast, I recently set up monitoring for my Proxmox server using Prometheus and Grafana. 🌟
 
 🔍 What I Did:
 
